@@ -1,0 +1,7 @@
+c:\users\win10\source\repos\Rover\Rover\bin\Debug\Rover.exe.config
+c:\users\win10\source\repos\Rover\Rover\bin\Debug\Rover.exe
+c:\users\win10\source\repos\Rover\Rover\bin\Debug\Rover.pdb
+c:\users\win10\source\repos\Rover\Rover\obj\Debug\Rover.csprojAssemblyReference.cache
+c:\users\win10\source\repos\Rover\Rover\obj\Debug\Rover.csproj.CoreCompileInputs.cache
+c:\users\win10\source\repos\Rover\Rover\obj\Debug\Rover.exe
+c:\users\win10\source\repos\Rover\Rover\obj\Debug\Rover.pdb
